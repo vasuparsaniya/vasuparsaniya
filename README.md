@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasu Parsaniya</h1>
-<h3 align="center">A passionate full stack web devloper from India</h3>
+<h3 align="center">Full Stack Web Devloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasuparsaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vasuparsaniya" /> </p>
 
