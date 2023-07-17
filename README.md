@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular | Node.js | MongoDB**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19kEZlJ1f7lGerozcL0PvCbEzkvQIE5fK/view?usp=drive_link](https://drive.google.com/file/d/19kEZlJ1f7lGerozcL0PvCbEzkvQIE5fK/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19kEZlJ1f7lGerozcL0PvCbEzkvQIE5fK/view?usp=drive_link](Resume)
 
 - 💬 Ask me about **HTML | CSS | JavaScript | AngulaJs**
 
