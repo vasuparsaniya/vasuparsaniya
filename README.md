@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19kEZlJ1f7lGerozcL0PvCbEzkvQIE5fK/view?usp=drive_link](Resume)
 
-- 💬 Ask me about **HTML | CSS | JavaScript | AngulaJs**
+- 💬 Ask me about **HTML | CSS | JavaScript | AngulaJs | MySQL**
 
 - 📫 How to reach me **vasuparsaniya21@gmail.com**
 
