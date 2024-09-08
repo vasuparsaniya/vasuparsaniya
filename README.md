@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasuparsaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vasuparsaniya" /> </p>
 
-- 🌱 I’m currently learning **Angular | Node.js | MongoDB**
+- 🌱 I’m currently learning **ReactJS | Node.js | MySQL**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hyEssR1H3NH5adbXegWUH4eN9wSiAqsf/view?usp=sharing)
 
-- 💬 Ask me about **HTML | CSS | JavaScript | AngulaJs | MySQL**
+- 💬 Ask me about **HTML | CSS | JavaScript | ReactJs | MySQL**
 
 - 📫 How to reach me **vasuparsaniya21@gmail.com**
 
