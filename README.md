@@ -71,13 +71,6 @@ ongoing maintenance**.
 
 🌐 **[View Live Project](https://sgvp.gurukulapps.in/)**
 
-> Source code is maintained in a private repository.
-
-## 📊 GitHub
-
-![Vasu's GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=vasuparsaniya&show_icons=true&hide_border=true)
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasu_Parsaniya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-parsaniya-84a0a620b/)
