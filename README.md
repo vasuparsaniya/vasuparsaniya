@@ -1,6 +1,6 @@
 # Hi, I'm Vasu Parsaniya 👋
 
-### Full-Stack Web Developer
+### Software Engineer
 
 I build production-ready web applications and scalable backend systems,
 with experience across frontend development, backend APIs, databases,
@@ -8,7 +8,7 @@ system integrations, and production infrastructure.
 
 ## 👨‍💻 About Me
 
--   💻 Full-Stack Web Developer with professional experience across
+-   💻 Software Engineer with professional experience across
     frontend and backend development
 -   ⚙️ Strong focus on Node.js, backend APIs, complex business logic,
     databases, and system integrations
