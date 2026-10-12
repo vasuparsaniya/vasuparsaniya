@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I build production-ready web applications and scalable backend systems,
+I build production-ready applications and scalable backend systems,
 with experience across frontend development, backend APIs, databases,
 system integrations, and production infrastructure.
 
